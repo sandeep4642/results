@@ -1,0 +1,2 @@
+$input-2019-07-31 10:47:59 UTC-status
+$input-2019-07-31 10:48:09 UTC-5-result
