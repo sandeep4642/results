@@ -1,1 +1,1 @@
-dbname=test
+PROJECT_VERSION='1.4.34'
